@@ -1,3 +1,3 @@
 username = 'root'
-password = 'Shreejee786'
+password = 'password'
 
