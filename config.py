@@ -1,3 +1,3 @@
-username = "root@localhost"
-password = "Shreejee786"
+username = 'root'
+password = 'Shreejee786'
 
